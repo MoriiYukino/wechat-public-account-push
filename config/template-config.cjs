@@ -22,11 +22,13 @@ const TEMPLATE_CONFIG = [
       
       {{comprehensive_horoscope.DATA}}
 
-                                                      每日一句
+      每日N句^O^
       
       {{note_en.DATA}}
       
       {{note_ch.DATA}}
+
+      {{wx_poetry_content_{index}.DATA}}
     `
   },
   {
