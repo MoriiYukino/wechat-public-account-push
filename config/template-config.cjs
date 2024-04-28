@@ -14,21 +14,19 @@ const TEMPLATE_CONFIG = [
       
       风向: {{wind_direction.DATA}}   风级: {{wind_scale.DATA}}  空气质量指数: {{aqi.DATA}}
       
-      {{ganmao.DATA}}
-      
-      {{notice.DATA}}
+      {{notice.DATA}} ,{{ganmao.DATA}}
 
       距离下个休息日≡ω≡：{{holidaytts.DATA}}
       
       {{comprehensive_horoscope.DATA}}
 
-      每日N句^O^
+      每日N句^O^:
       
       {{note_en.DATA}}
       
       {{note_ch.DATA}}
 
-      {{wx_poetry_content_{index}.DATA}}
+      {{poetry_content.DATA}}  --{{poetry_author.DATA}}({{poetry_dynasty.DATA}}) <<{{poetry_title.DATA}}>> 
     `
   },
   {
