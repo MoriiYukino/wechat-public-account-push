@@ -7,6 +7,7 @@ const TEMPLATE_CONFIG = [
       **{{date.DATA}}**
       
       今天是距离上次北京与你见面的第{{love_day.DATA}}天~
+      
       希望今天的你也是愉快的，以及今天一定要记得好好吃饭哦~
       
       {{birthday_message.DATA}}
