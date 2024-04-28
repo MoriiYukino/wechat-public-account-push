@@ -10,7 +10,7 @@ const TEMPLATE_CONFIG = [
       
       {{birthday_message.DATA}}
        
-      城市：{{city.DATA}}  天气：{{weather.DATA}}  气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}}   
+      城市：{{city.DATA}}  天气：{{weather.DATA}}  气温:{{max_temperature.DATA}} / {{min_temperature.DATA}}   
       
       风向: {{wind_direction.DATA}}   风级: {{wind_scale.DATA}}  空气质量指数: {{aqi.DATA}}
       
@@ -22,7 +22,7 @@ const TEMPLATE_CONFIG = [
       
       {{comprehensive_horoscope.DATA}}
 
-      每日一句：
+                                                      每日一句
       
       {{note_en.DATA}}
       
