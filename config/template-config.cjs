@@ -6,7 +6,7 @@ const TEMPLATE_CONFIG = [
     desc: `
       **{{date.DATA}}**
       
-      今天是距离上次北京见面的第{{love_day.DATA}}天~，希望今天的你也是愉快的，以及一定要记得好好吃饭哦~
+      今天是距离上次北京与你见面的第{{love_day.DATA}}天~，希望今天的你也是愉快的，以及一定要记得好好吃饭哦~
       
       {{birthday_message.DATA}}
        
@@ -14,7 +14,7 @@ const TEMPLATE_CONFIG = [
       
       风向: {{wind_direction.DATA}}   风级: {{wind_scale.DATA}}  空气质量指数: {{aqi.DATA}}
       
-      {{notice.DATA}} ,{{ganmao.DATA}}
+      {{notice.DATA}}
 
       距离下个休息日≡ω≡：{{holidaytts.DATA}}
       
@@ -26,7 +26,9 @@ const TEMPLATE_CONFIG = [
       
       {{note_ch.DATA}}
 
-      {{poetry_content.DATA}}  --{{poetry_author.DATA}}({{poetry_dynasty.DATA}}) <<{{poetry_title.DATA}}>> 
+      {{poetry_content.DATA}} 
+      
+      --{{poetry_author.DATA}}({{poetry_dynasty.DATA}}) <<{{poetry_title.DATA}}>> 
     `
   },
   {
