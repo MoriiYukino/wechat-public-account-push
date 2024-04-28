@@ -8,8 +8,6 @@ const TEMPLATE_CONFIG = [
       
       下个休息日：{{holidaytts.DATA}}
       
-      ---
-      
       城市：{{city.DATA}}
       
       天气：{{weather.DATA}}
@@ -24,15 +22,13 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      今天是我们相识的第{{love_day.DATA}}天
+      今天是距离上次见面的第{{love_day.DATA}}天
       
       {{birthday_message.DATA}}
       
-      ---
-      
       {{moment_copyrighting.DATA}}
       
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
+      // {{poetry_title.DATA}} {{poetry_content.DATA}}
     `
   },
   {
