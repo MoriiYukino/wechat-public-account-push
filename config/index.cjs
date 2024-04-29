@@ -23,11 +23,11 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '释予',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'PDU29803TZKEriguMzwJAhytmF0JfjN2ujaJ4Li6X',
+      id: 'PDU29810T1iUAkdEYFVopNwy8IZLZxTU3pqB4hDNA',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '10-12',
+      horoscopeDate: '10-02',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         // {
@@ -35,7 +35,7 @@ const USER_CONFIG = {
         // },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '绵绵雨', year: '2002', date: '10-12',
+          type: '生日', name: '绵绵雨', year: '2002', date: '10-02',
         },
         // {
         //   type: '节日', name: '相识纪念日', year: '2020', date: '09-03',
@@ -59,7 +59,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'PDU29803TZKEriguMzwJAhytmF0JfjN2ujaJ4Li6X',
     }
   ],
 
