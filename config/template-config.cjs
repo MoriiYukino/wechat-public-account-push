@@ -31,6 +31,7 @@ const TEMPLATE_CONFIG = [
       {{poetry_content.DATA}} 
       
       --{{poetry_author.DATA}}({{poetry_dynasty.DATA}}) <<{{poetry_title.DATA}}>> 
+      i'm killing the days...until can see u again..
     `
   },
   {
