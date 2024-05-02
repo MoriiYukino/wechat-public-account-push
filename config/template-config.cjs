@@ -6,9 +6,9 @@ const TEMPLATE_CONFIG = [
     desc: `
       **{{date.DATA}}**
       
-      今天是距离上次北京与你见面的第{{love_day.DATA}}天~
+      今天是距离上次北京聚会的第{{love_day.DATA}}天~
       
-      希望今天的你也是愉快的，以及今天也一定要记得好好吃饭哦~
+      希望今天的你也是愉快的，以及今天也一定要记得好好吃饭！
       
       {{birthday_message.DATA}}
        
@@ -31,7 +31,6 @@ const TEMPLATE_CONFIG = [
       {{poetry_content.DATA}} 
       
       --{{poetry_author.DATA}}({{poetry_dynasty.DATA}}) <<{{poetry_title.DATA}}>> 
-      i'm killing the days...until can see u again..
     `
   },
   {
