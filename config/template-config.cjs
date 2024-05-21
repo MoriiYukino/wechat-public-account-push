@@ -2,10 +2,10 @@
 const TEMPLATE_CONFIG = [
   {
     id: '0001',
-    title: '鱼师傅~ 早上好',
+    title: '鱼师傅~ 下午好',
     desc: `
       **{{date.DATA}}**
-      
+      惟愿春日不迟，相逢会有时.
       今天是距离上次北京聚会的第{{love_day.DATA}}天~
       
       希望今天的你也是愉快的，以及今天也一定要记得好好吃饭！
