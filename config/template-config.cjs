@@ -2,15 +2,15 @@
 const TEMPLATE_CONFIG = [
   {
     id: '0001',
-    title: '鱼师傅~ 早上好!(ง •̀_•́)ง‼',
+    title: '鱼师傅~ 早上好!(ง •̀_•́)ง‼ 你是最棒的！',
     desc: `
       **{{date.DATA}}**
       
       延颈秀项，皓质呈露，芳泽无加，铅华弗御。
       
-      今天是距离上次北京聚会的第{{love_day.DATA}}天~
+      今天是距离上次北京聚会的第{{love_day.DATA}}天 (๑¯ω¯๑)
       
-      希望今天的你也是愉快的，一定要记得好好吃饭，注意休息！
+      今天的你一定要开心，并且一定要记得好好吃饭，注意休息！
       
       {{birthday_message.DATA}}
        
@@ -20,11 +20,13 @@ const TEMPLATE_CONFIG = [
       
       {{notice.DATA}}
 
-      距离下个休息日≡ω≡：{{holidaytts.DATA}}
+      距离下个休息日( つ•̀ω•́)つ：{{holidaytts.DATA}}
       
       {{comprehensive_horoscope.DATA}}
 
-      每日N句^O^:
+      不管运势如何，内核稳定，你自己就是最强的运！
+
+      每日N句૮ ・ﻌ・ა:
       
       {{note_en.DATA}}
       
