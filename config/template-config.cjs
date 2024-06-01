@@ -2,17 +2,17 @@
 const TEMPLATE_CONFIG = [
   {
     id: '0001',
-    title: '鱼师傅~ 早上好!(ง •̀_•́)ง‼ 你是最棒的！',
+    title: '鱼师傅~ 早上好!(ง •̀_•́)ง‼ 你是最棒的‼',
     desc: `
       **{{date.DATA}}**
       
-      延颈秀项，皓质呈露，芳泽无加，铅华弗御。
+      云髻峨峨，修眉联娟，丹唇外朗，皓齿内鲜。
       
       今天是距离上次北京聚会的第{{love_day.DATA}}天 (๑¯ω¯๑)
       
       今天的你一定要开心，并且一定要记得好好吃饭，注意休息！
       
-      {{birthday_message.DATA}}
+      {{birthday_message.DATA}} ໒・ﻌ・७
        
       城市：{{city.DATA}}  天气：{{weather.DATA}}  气温:{{max_temperature.DATA}} / {{min_temperature.DATA}}   
       
