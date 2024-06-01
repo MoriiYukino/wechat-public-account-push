@@ -5,6 +5,7 @@ const TEMPLATE_CONFIG = [
     title: '鱼师傅~ 早上好!(ง •̀_•́)ง‼',
     desc: `
       **{{date.DATA}}**
+      
       延颈秀项，皓质呈露，芳泽无加，铅华弗御。
       
       今天是距离上次北京聚会的第{{love_day.DATA}}天~
