@@ -6,7 +6,7 @@ const TEMPLATE_CONFIG = [
     desc: `
       **{{date.DATA}}**
       
-      云髻峨峨，修眉联娟，丹唇外朗，皓齿内鲜。
+      明眸善睐，靥辅承权，瓌姿艳逸，仪静体闲。
       
       今天是距离上次北京聚会的第{{love_day.DATA}}天 (๑¯ω¯๑)
       
