@@ -6,7 +6,7 @@ const TEMPLATE_CONFIG = [
     desc: `
       **{{date.DATA}}**
       
-      披罗衣之璀粲兮，珥瑶碧之华琚。
+      戴金翠之首饰，缀明珠以耀躯。
       
       今天是距离上次北京聚会的第{{love_day.DATA}}天 (๑¯ω¯๑)
       
