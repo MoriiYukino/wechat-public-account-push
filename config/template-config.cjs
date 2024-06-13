@@ -6,7 +6,7 @@ const TEMPLATE_CONFIG = [
     desc: `
       **{{date.DATA}}**
       
-      微幽兰之芳蔼兮，步踟蹰于山隅。
+      于是忽焉纵体，以遨以嬉。
       
       今天是距离上次北京聚会的第{{love_day.DATA}}天 (๑¯ω¯๑)
       
