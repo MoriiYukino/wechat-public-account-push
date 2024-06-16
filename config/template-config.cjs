@@ -6,11 +6,11 @@ const TEMPLATE_CONFIG = [
     desc: `
       **{{date.DATA}}**
       
-      于是忽焉纵体，以遨以嬉。
-      
+      左倚采旄，右荫桂旗。
+  
       今天是距离上次北京聚会的第{{love_day.DATA}}天 (๑¯ω¯๑)
       
-      六级加油‼ 并一定要记得好好吃饭，注意休息！
+      一定要记得好好吃饭，注意休息！
       
       {{birthday_message.DATA}} ໒・ﻌ・७
        
