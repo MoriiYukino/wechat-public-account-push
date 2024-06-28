@@ -6,7 +6,7 @@ const TEMPLATE_CONFIG = [
     desc: `
       **{{date.DATA}}**
       
-      抗琼珶以和予兮，指潜渊而为期。
+      执眷眷之款实兮，惧斯灵之我欺。
   
       今天是距离上次北京聚会的第{{love_day.DATA}}天 (๑¯ω¯๑)
       
