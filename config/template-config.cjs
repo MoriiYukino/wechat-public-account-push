@@ -21,9 +21,10 @@ const TEMPLATE_CONFIG = [
       {{notice.DATA}}
 
       ( つ•̀ω•́)つ
+      
       {{comprehensive_horoscope.DATA}}
 
-      不管运势如何，内核一定要稳定且强大，消灭一切困难！
+      不管运势如何，我相信你一定没问题！
 
       每日N句૮ ・ﻌ・ა:
       
