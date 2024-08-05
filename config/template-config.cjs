@@ -20,11 +20,10 @@ const TEMPLATE_CONFIG = [
       
       {{notice.DATA}}
 
-      距离下个休息日( つ•̀ω•́)つ：{{holidaytts.DATA}}
-      
+      ( つ•̀ω•́)つ
       {{comprehensive_horoscope.DATA}}
 
-      不管运势如何，内核稳定，你自己就是最强的运！
+      不管运势如何，内核一定要稳定且强大，消灭一切困难！
 
       每日N句૮ ・ﻌ・ა:
       
