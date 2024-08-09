@@ -6,7 +6,7 @@ const TEMPLATE_CONFIG = [
     desc: `
       **{{date.DATA}}**
       
-      于是洛灵感焉，徙倚彷徨。神光离合，乍阴乍阳。
+      竦轻躯以鹤立，若将飞而未翔。
   
       今天是距离上次北京聚会的第{{love_day.DATA}}天 (๑¯ω¯๑)
       
