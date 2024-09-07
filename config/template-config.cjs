@@ -5,8 +5,8 @@ const TEMPLATE_CONFIG = [
     title: '鱼师傅~ 早上好呀!(ง •̀_•́)ง‼‼',
     desc: `
       **{{date.DATA}}**
-      
-      超长吟以永慕兮，声哀厉而弥长。
+
+      祝你有顺利的一天。
   
       今天是距离上次北京聚会的第{{love_day.DATA}}天 (๑¯ω¯๑)
       
